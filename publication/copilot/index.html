@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="" />
+  <meta name="description" content="Replicated state machines are linearizable, fault-tolerant groups of replicas that are coordinated using a consensus algorithm. Copilot replication is the first 1-slowdown-tolerant consensus protocol: it delivers normal latency despite the slowdown of any 1 replica." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://khiemngo.github.io/publication/copilot/" />
@@ -295,7 +295,7 @@
   <meta property="og:site_name" content="Khiem Ngo" />
   <meta property="og:url" content="https://khiemngo.github.io/publication/copilot/" />
   <meta property="og:title" content="Tolerating slowdowns in replicated state machines using Copilots | Khiem Ngo" />
-  <meta property="og:description" content="" /><meta property="og:image" content="https://khiemngo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:description" content="Replicated state machines are linearizable, fault-tolerant groups of replicas that are coordinated using a consensus algorithm. Copilot replication is the first 1-slowdown-tolerant consensus protocol: it delivers normal latency despite the slowdown of any 1 replica." /><meta property="og:image" content="https://khiemngo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://khiemngo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -346,7 +346,7 @@
       "url": "https://khiemngo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": ""
+  "description": "Replicated state machines are linearizable, fault-tolerant groups of replicas that are coordinated using a consensus algorithm. Copilot replication is the first 1-slowdown-tolerant consensus protocol: it delivers normal latency despite the slowdown of any 1 replica."
 }
 </script>
 
@@ -726,10 +726,12 @@
 
 
   
+    
+  
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="/publication/copilot/copilot.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="/publication/copilot/copilot-osdi20.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -755,11 +757,19 @@
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="/publication/copilot/copilot.pptx" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="/publication/copilot/copilot-osdi20-talk-public.pptx" target="_blank" rel="noopener">
   Slides
 </a>
 
 
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://www.usenix.org/conference/osdi20/presentation/ngo" target="_blank" rel="noopener">
+  Video
+</a>
 
 
 
@@ -775,6 +785,9 @@
 
   <div class="article-container">
 
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Replicated state machines are linearizable, fault-tolerant groups of replicas that are coordinated using a consensus algorithm. Copilot replication is the first 1-slowdown-tolerant consensus protocol: it delivers normal latency despite the slowdown of any 1 replica. Copilot uses two distinguished replicas—the pilot and copilot—to proactively add redundancy to all stages of processing a client’s command. Copilot uses dependencies and deduplication to resolve potentially differing orderings proposed by the pilots. To avoid dependencies leading to either pilot being able to slow down the group, Copilot uses fast takeovers that allow a fast pilot to complete the ongoing work of a slow pilot. Copilot includes two optimizations—ping-pong batching and null dependency elimination—that improve its performance when there are 0 and 1 slow pilots respectively. Our evaluation of Copilot shows its performance is lower but competitive with Multi-Paxos and EPaxos when no replicas are slow. When a replica is slow, Copilot is the only protocol that avoids high latencies.</p>
     
 
     

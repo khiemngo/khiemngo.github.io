@@ -36,5 +36,45 @@
       <description></description>
     </item>
     
+    <item>
+      <title>EnergyTrack: Sensor-driven energy use analysis system</title>
+      <link>https://khiemngo.github.io/publication/energytrack/</link>
+      <pubDate>Wed, 13 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://khiemngo.github.io/publication/energytrack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiku Live: A live zoomable video streaming system</title>
+      <link>https://khiemngo.github.io/publication/jiku/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://khiemngo.github.io/publication/jiku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards understanding user tolerance to network latency in zoomable video streaming</title>
+      <link>https://khiemngo.github.io/publication/zoom-delay/</link>
+      <pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://khiemngo.github.io/publication/zoom-delay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive encoding of zoomable video streams based on user access pattern</title>
+      <link>https://khiemngo.github.io/publication/adaptivezoom/</link>
+      <pubDate>Wed, 23 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>https://khiemngo.github.io/publication/adaptivezoom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting zoomable video streams via dynamic region-of-interest cropping</title>
+      <link>https://khiemngo.github.io/publication/zoomable/</link>
+      <pubDate>Mon, 22 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://khiemngo.github.io/publication/zoomable/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

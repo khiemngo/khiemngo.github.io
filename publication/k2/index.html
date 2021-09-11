@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="" />
+  <meta name="description" content="We present the K2 storage system that provides lower latency for large-scale and medium-scale web services using partial replication of data over many datacenters with strong guarantees: causal consistency, read-only transactions, and write-only transactions." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://khiemngo.github.io/publication/k2/" />
@@ -295,7 +295,7 @@
   <meta property="og:site_name" content="Khiem Ngo" />
   <meta property="og:url" content="https://khiemngo.github.io/publication/k2/" />
   <meta property="og:title" content="K2: Reading quickly from storage across many datacenters | Khiem Ngo" />
-  <meta property="og:description" content="" /><meta property="og:image" content="https://khiemngo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:description" content="We present the K2 storage system that provides lower latency for large-scale and medium-scale web services using partial replication of data over many datacenters with strong guarantees: causal consistency, read-only transactions, and write-only transactions." /><meta property="og:image" content="https://khiemngo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://khiemngo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -346,7 +346,7 @@
       "url": "https://khiemngo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": ""
+  "description": "We present the K2 storage system that provides lower latency for large-scale and medium-scale web services using partial replication of data over many datacenters with strong guarantees: causal consistency, read-only transactions, and write-only transactions."
 }
 </script>
 
@@ -726,10 +726,12 @@
 
 
   
+    
+  
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="/publication/k2/k2.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="/publication/k2/k2-dsn21.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -747,7 +749,7 @@
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="/publication/k2/k2.pptx" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="/publication/k2/k2-dsn21-talk-public.pptx" target="_blank" rel="noopener">
   Slides
 </a>
 
@@ -767,6 +769,11 @@
 
   <div class="article-container">
 
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract"><p>The infrastructure available to large-scale and medium-scale web services now spans dozens of geographically dispersed datacenters. Deploying across many datacenters has the potential to significantly reduce end-user latency by serving users nearer their location. However, deploying across many datacenters requires the backend storage system be partially replicated. In turn, this can sacrifice the low latency benefits of many datacenters, especially when a storage system provides guarantees on what operations will observe.</p>
+<p>We present the K2 storage system that provides lower latency for large-scale and medium-scale web services using partial replication of data over many datacenters with strong guarantees: causal consistency, read-only transactions, and write-only transactions. K2 provides the best possible worst-case latency for partial replication, a single round trip to remote datacenters, and often avoids sending any requests to far away datacenters using a novel replication approach, write-only transaction algorithm, and read-only transaction algorithm.</p>
+</p>
     
 
     
