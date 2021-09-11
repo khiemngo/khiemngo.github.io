@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slowdown Tolerance | Khiem Ngo</title>
+    <link>https://khiemngo.github.io/tag/slowdown-tolerance/</link>
+      <atom:link href="https://khiemngo.github.io/tag/slowdown-tolerance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slowdown Tolerance</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Khiem Ngo</copyright><lastBuildDate>Tue, 31 Aug 2021 17:05:29 -0700</lastBuildDate>
+    <image>
+      <url>https://khiemngo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Slowdown Tolerance</title>
+      <link>https://khiemngo.github.io/tag/slowdown-tolerance/</link>
+    </image>
+    
+    <item>
+      <title>Tolerating Slowdowns in Replicated State Machines</title>
+      <link>https://khiemngo.github.io/project/copilot/</link>
+      <pubDate>Tue, 31 Aug 2021 17:05:29 -0700</pubDate>
+      <guid>https://khiemngo.github.io/project/copilot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tolerating slowdowns in replicated state machines</title>
+      <link>https://khiemngo.github.io/publication/phdthesis/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://khiemngo.github.io/publication/phdthesis/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Online PDF is coming soon&amp;hellip;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tolerating slowdowns in replicated state machines using Copilots</title>
+      <link>https://khiemngo.github.io/publication/copilot/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://khiemngo.github.io/publication/copilot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

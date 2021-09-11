@@ -5,7 +5,7 @@
     <link>https://khiemngo.github.io/project/</link>
       <atom:link href="https://khiemngo.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Khiem Ngo</copyright><lastBuildDate>Fri, 10 Sep 2021 17:05:29 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Khiem Ngo</copyright><lastBuildDate>Tue, 31 Aug 2021 17:05:29 -0700</lastBuildDate>
     <image>
       <url>https://khiemngo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -15,8 +15,24 @@
     <item>
       <title>Tolerating Slowdowns in Replicated State Machines</title>
       <link>https://khiemngo.github.io/project/copilot/</link>
-      <pubDate>Fri, 10 Sep 2021 17:05:29 -0700</pubDate>
+      <pubDate>Tue, 31 Aug 2021 17:05:29 -0700</pubDate>
       <guid>https://khiemngo.github.io/project/copilot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading Quickly from Storage Across Datacenters</title>
+      <link>https://khiemngo.github.io/project/k2/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://khiemngo.github.io/project/k2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Zoomable Video Streams</title>
+      <link>https://khiemngo.github.io/project/zoomable/</link>
+      <pubDate>Fri, 31 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://khiemngo.github.io/project/zoomable/</guid>
       <description></description>
     </item>
     

@@ -11,11 +11,26 @@
     <loc>https://khiemngo.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://khiemngo.github.io/tag/consensus/</loc>
+    <lastmod>2021-08-31T17:05:29-07:00</lastmod>
+  </url><url>
+    <loc>https://khiemngo.github.io/tag/linearizability/</loc>
+    <lastmod>2021-08-31T17:05:29-07:00</lastmod>
+  </url><url>
     <loc>https://khiemngo.github.io/project/</loc>
-    <lastmod>2021-09-10T17:05:29-07:00</lastmod>
+    <lastmod>2021-08-31T17:05:29-07:00</lastmod>
+  </url><url>
+    <loc>https://khiemngo.github.io/tag/replicated-state-machine/</loc>
+    <lastmod>2021-08-31T17:05:29-07:00</lastmod>
+  </url><url>
+    <loc>https://khiemngo.github.io/tag/slowdown-tolerance/</loc>
+    <lastmod>2021-08-31T17:05:29-07:00</lastmod>
+  </url><url>
+    <loc>https://khiemngo.github.io/tags/</loc>
+    <lastmod>2021-08-31T17:05:29-07:00</lastmod>
   </url><url>
     <loc>https://khiemngo.github.io/project/copilot/</loc>
-    <lastmod>2021-09-10T17:05:29-07:00</lastmod>
+    <lastmod>2021-08-31T17:05:29-07:00</lastmod>
   </url><url>
     <loc>https://khiemngo.github.io/publication-type/7/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
@@ -32,7 +47,22 @@
     <loc>https://khiemngo.github.io/publication-type/1/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://khiemngo.github.io/tag/causal-consistency/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khiemngo.github.io/tag/geo-replication/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://khiemngo.github.io/publication/k2/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khiemngo.github.io/tag/partial-replication/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khiemngo.github.io/tag/read-only-transaction/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khiemngo.github.io/project/k2/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://khiemngo.github.io/tag/academic/</loc>
@@ -45,9 +75,6 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://khiemngo.github.io/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://khiemngo.github.io/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://khiemngo.github.io/post/getting-started/</loc>
@@ -70,6 +97,24 @@
   </url><url>
     <loc>https://khiemngo.github.io/publication/jiku/</loc>
     <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khiemngo.github.io/tag/encoding/</loc>
+    <lastmod>2012-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khiemngo.github.io/tag/region-of-interest/</loc>
+    <lastmod>2012-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khiemngo.github.io/tag/streaming/</loc>
+    <lastmod>2012-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khiemngo.github.io/project/zoomable/</loc>
+    <lastmod>2012-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khiemngo.github.io/tag/video/</loc>
+    <lastmod>2012-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khiemngo.github.io/tag/zoom/</loc>
+    <lastmod>2012-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://khiemngo.github.io/publication-type/2/</loc>
     <lastmod>2012-04-30T00:00:00+00:00</lastmod>
